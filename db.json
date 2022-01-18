@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1","slug":"deneme" },
-    { "id": 2, "title": "Post 2","slug":"degne"  },
-    { "id": 3, "title": "Post 3","slug":"bes"  }
+    { "title": "Post 1","slug":"deneme" },
+    { "title": "Post 2","slug":"degne"  },
+    { "title": "Post 3","slug":"bes"  }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
