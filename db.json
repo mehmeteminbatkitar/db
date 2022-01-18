@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id" : "post1",title": "Post1","slug":"post-1" },
+    { "id" : "post1","title": "Post 1","slug":"post-1" },
     { "id" : "post2","title": "Post 2","slug":"post-2" },
     { "id" : "post3","title": "Post 3","slug":"post-3"  }
   ],
