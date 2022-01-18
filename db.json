@@ -5,13 +5,6 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Aconcagua2016.jpg/600px-Aconcagua2016.jpg",
     "slug": "aconcagua",
    },
-  {
-    "title": "Denali",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wonder_Lake_and_Denali.jpg/600px-Wonder_Lake_and_Denali.jpg",
-    "slug": "denali",
-  }
-    
-    
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
