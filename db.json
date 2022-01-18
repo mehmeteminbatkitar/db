@@ -1,11 +1,5 @@
 {
-  "mountains": [
-    {
-    "title": "Aconcagua",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Aconcagua2016.jpg/600px-Aconcagua2016.jpg",
-    "slug": "aconcagua",
-   },
-  ],
+  
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
